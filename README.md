@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anubhavpatr
-- 👀 I’m interested in Machine Learning , Multivariate Calculus , Linear ALgebra, Convex Optimization, Probability and Statistics , Deep Learning,ComputerVision, Natural Language Processing.
+- 👀 I’m interested in Machine Learning , Multivariate Calculus , Linear Algebra, Convex Optimization, Probability and Statistics , Deep Learning,ComputerVision, Natural Language Processing.
 - 🌱 I’m currently learning Computer Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...

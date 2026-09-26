@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me anubhav.patra.06@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I am cool
+- ⚡ Fun fact: I am coder
 
 <!---
 Anubhavpatr/Anubhavpatr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
